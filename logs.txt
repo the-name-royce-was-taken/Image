@@ -1,0 +1,1270 @@
+[1] 2363
+_XSERVTransmkdir: Owner of /tmp/.X11-unix should be set to root
+
+Xvnc TigerVNC 1.13.1 - built Jan  1 1980 00:00:00
+Copyright (C) 1999-2022 TigerVNC Team and many others (see README.rst)
+See https://www.tigervnc.org for information on TigerVNC.
+Underlying X server release 12101013
+
+
+Sun Nov 22 08:14:16 2026
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on all interface(s), port 5900
+ vncext:      created VNC server for screen 0
+[mi] mieq: warning: overriding existing handler (nil) with 0x5c3d60 for event 2
+[mi] mieq: warning: overriding existing handler (nil) with 0x5c3d60 for event 3
+[2] 2368
+[3] 2369
+[4] 2374
+Failed to read: session.configVersion
+Setting default value
+Failed to read: session.configVersion
+Setting default value
+Failed to read: session.configVersion
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.screen0.desktopwheeling
+Setting default value
+Failed to read: session.screen0.reversewheeling
+Setting default value
+Failed to read: session.groupFile
+Setting default value
+Failed to read: session.screen0.iconbar.wheelMode
+Setting default value
+Failed to read: session.screen0.desktopwheeling
+Setting default value
+Failed to read: session.screen0.reversewheeling
+Setting default value
+Failed to read: session.screen0.resizeMode
+Setting default value
+Failed to read: session.modKey
+Setting default value
+Failed to read: session.screen0.iconbar.mode
+Setting default value
+Failed to read: session.screen0.reversewheeling
+Setting default value
+Failed to read: session.screen0.windowScrollAction
+Setting default value
+Failed to read: session.screen0.tabs.usePixmap
+Setting default value
+Failed to read: session.screen0.slit.placement
+Setting default value
+Failed to read: session.screen0.slit.direction
+Setting default value
+Failed to read: session.ignoreBorder
+Setting default value
+Failed to read: session.forcePseudoTransparency
+Setting default value
+Failed to read: session.colorsPerChannel
+Setting default value
+Failed to read: session.doubleClickInterval
+Setting default value
+Failed to read: session.tabPadding
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.menuFile
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.tabsAttachArea
+Setting default value
+Failed to read: session.menuSearch
+Setting default value
+Failed to read: session.cacheLife
+Setting default value
+Failed to read: session.cacheMax
+Setting default value
+Failed to read: session.autoRaiseDelay
+Setting default value
+Failed to read: session.ignoreBorder
+Setting default value
+Failed to read: session.forcePseudoTransparency
+Setting default value
+Failed to read: session.colorsPerChannel
+Setting default value
+Failed to read: session.doubleClickInterval
+Setting default value
+Failed to read: session.tabPadding
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.menuFile
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.tabsAttachArea
+Setting default value
+Failed to read: session.menuSearch
+Setting default value
+Failed to read: session.cacheLife
+Setting default value
+Failed to read: session.cacheMax
+Setting default value
+Failed to read: session.autoRaiseDelay
+Setting default value
+Keys: Invalid key/modifier on line 32): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 34): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 35): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 36): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 37): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 40): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 43): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 44): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 47): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 48): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 51): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 52): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 53): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 54): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 55): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 60): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 62): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 63): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 64): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 65): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 68): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 71): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 72): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 75): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 76): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 79): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 80): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 81): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 82): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 83): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 88): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 90): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 91): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 92): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 93): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 96): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 99): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 100): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 103): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 104): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 107): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 108): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 109): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 110): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 111): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 116): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 118): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 119): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 120): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 121): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 124): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 127): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 128): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 131): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 132): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 135): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 136): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 137): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 138): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 139): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 144): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 146): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 147): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 148): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 149): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 152): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 155): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 156): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 159): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 160): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 163): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 164): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 165): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 166): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 167): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 172): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 174): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 175): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 176): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 177): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 180): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 183): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 184): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 187): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 188): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 191): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 192): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 193): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 194): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 195): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 200): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 202): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 203): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 204): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 205): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 208): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 211): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 212): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 215): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 216): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 219): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 220): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 221): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 222): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 223): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 228): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 230): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 231): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 232): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 233): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 236): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 239): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 240): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 243): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 244): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 247): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 248): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 249): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 250): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 251): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 256): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 258): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 259): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 260): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 261): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 264): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 267): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 268): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 271): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 272): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 275): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 276): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 277): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 278): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 279): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 284): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 286): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 287): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 288): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 289): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 292): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 295): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 296): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 299): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 300): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 303): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 304): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 305): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 306): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 307): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 312): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 314): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 315): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 316): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 317): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 320): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 323): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 324): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 327): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 328): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 331): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 332): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 333): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 334): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 335): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 340): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 342): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 343): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 344): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 345): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 348): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 351): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 352): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 355): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 356): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 359): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 360): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 361): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 362): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 363): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 368): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 370): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 371): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 372): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 373): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 376): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 379): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 380): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 383): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 384): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 387): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 388): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 389): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 390): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 391): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 396): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 398): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 399): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 400): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 401): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 404): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 407): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 408): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 411): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 412): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 415): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 416): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 417): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 418): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 419): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 424): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 426): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 427): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 428): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 429): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 432): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 435): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 436): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 439): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 440): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 443): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 444): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 445): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 446): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 447): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 452): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 454): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 455): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 456): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 457): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 460): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 463): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 464): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 467): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 468): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 471): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 472): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 473): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 474): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 475): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 480): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 482): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 483): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 484): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 485): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 488): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 491): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 492): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 495): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 496): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 499): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 500): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 501): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 502): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 503): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 508): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 510): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 511): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 512): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 513): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 516): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 519): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 520): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 523): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 524): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 527): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 528): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 529): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 530): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 531): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 536): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 538): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 539): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 540): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 541): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 544): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 547): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 548): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 551): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 552): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 555): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 556): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 557): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 558): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 559): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 564): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 566): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 567): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 568): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 569): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 572): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 575): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 576): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 579): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 580): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 583): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 584): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 585): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 586): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 587): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 592): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 594): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 595): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 596): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 597): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 600): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 603): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 604): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 607): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 608): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 611): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 612): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 613): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 614): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 615): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 620): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 622): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 623): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 624): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 625): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 628): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 631): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 632): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 635): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 636): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 639): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 640): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 641): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 642): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 643): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 648): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 650): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 651): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 652): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 653): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 656): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 659): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 660): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 663): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 664): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 667): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 668): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 669): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 670): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 671): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 676): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 678): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 679): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 680): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 681): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 684): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 687): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 688): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 691): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 692): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 695): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 696): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 697): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 698): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 699): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 704): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 706): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 707): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 708): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 709): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 712): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 715): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 716): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 719): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 720): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 723): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 724): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 725): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 726): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 727): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 732): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 734): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 735): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 736): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 737): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 740): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 743): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 744): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 747): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 748): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 751): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 752): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 753): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 754): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 755): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 760): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 762): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 763): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 764): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 765): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 768): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 771): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 772): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 775): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 776): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 779): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 780): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 781): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 782): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 783): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 788): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 790): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 791): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 792): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 793): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 796): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 799): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 800): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 803): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 804): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 807): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 808): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 809): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 810): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 811): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 816): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 818): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 819): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 820): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 821): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 824): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 827): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 828): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 831): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 832): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 835): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 836): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 837): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 838): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 839): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 844): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 846): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 847): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 848): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 849): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 852): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 855): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 856): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 859): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 860): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 863): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 864): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 865): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 866): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 867): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 872): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 874): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 875): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 876): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 877): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 880): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 883): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 884): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 887): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 888): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 891): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 892): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 893): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 894): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 895): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 900): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 902): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 903): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 904): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 905): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 908): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 911): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 912): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 915): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 916): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 919): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 920): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 921): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 922): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 923): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 928): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 930): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 931): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 932): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 933): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 936): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 939): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 940): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 943): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 944): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 947): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 948): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 949): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 950): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 951): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 956): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 958): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 959): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 960): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 961): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 964): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 967): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 968): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 971): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 972): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 975): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 976): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 977): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 978): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 979): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 984): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 986): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 987): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 988): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 989): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 992): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 995): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 996): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 999): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 1000): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 1003): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 1004): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 1005): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 1006): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 1007): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 1012): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 1014): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 1015): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 1016): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 1017): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 1020): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 1023): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 1024): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 1027): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 1028): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 1031): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 1032): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 1033): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 1034): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 1035): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 1040): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 1042): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 1043): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 1044): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 1045): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 1048): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 1051): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 1052): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 1055): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 1056): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 1059): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 1060): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 1061): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 1062): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 1063): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 1068): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 1070): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 1071): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 1072): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 1073): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 1076): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 1079): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 1080): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 1083): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 1084): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 1087): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 1088): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 1089): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 1090): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 1091): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 1096): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 1098): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 1099): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 1100): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 1101): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 1104): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 1107): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 1108): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 1111): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 1112): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 1115): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 1116): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 1117): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 1118): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 1119): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 1124): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 1126): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 1127): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 1128): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 1129): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 1132): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 1135): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 1136): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 1139): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 1140): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 1143): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 1144): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 1145): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 1146): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 1147): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 1152): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 1154): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 1155): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 1156): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 1157): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 1160): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 1163): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 1164): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 1167): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 1168): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 1171): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 1172): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 1173): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 1174): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 1175): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 1180): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 1182): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 1183): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 1184): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 1185): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 1188): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 1191): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 1192): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 1195): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 1196): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 1199): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 1200): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 1201): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 1202): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 1203): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 1208): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 1210): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 1211): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 1212): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 1213): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 1216): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 1219): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 1220): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 1223): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 1224): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 1227): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 1228): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 1229): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 1230): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 1231): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 1236): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 1238): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 1239): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 1240): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 1241): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 1244): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 1247): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 1248): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 1251): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 1252): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 1255): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 1256): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 1257): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 1258): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 1259): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 1264): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 1266): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 1267): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 1268): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 1269): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 1272): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 1275): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 1276): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 1279): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 1280): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 1283): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 1284): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 1285): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 1286): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 1287): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 1292): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 1294): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 1295): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 1296): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 1297): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 1300): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 1303): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 1304): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 1307): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 1308): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 1311): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 1312): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 1313): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 1314): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 1315): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 1320): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 1322): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 1323): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 1324): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 1325): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 1328): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 1331): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 1332): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 1335): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 1336): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 1339): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 1340): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 1341): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 1342): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 1343): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 1348): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 1350): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 1351): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 1352): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 1353): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 1356): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 1359): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 1360): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 1363): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 1364): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 1367): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 1368): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 1369): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 1370): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 1371): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 1376): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 1378): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 1379): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 1380): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 1381): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 1384): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 1387): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 1388): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 1391): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 1392): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 1395): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 1396): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 1397): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 1398): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 1399): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 1404): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 1406): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 1407): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 1408): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 1409): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 1412): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 1415): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 1416): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 1419): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 1420): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 1423): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 1424): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 1425): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 1426): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 1427): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 1432): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 1434): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 1435): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 1436): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 1437): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 1440): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 1443): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 1444): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 1447): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 1448): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 1451): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 1452): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 1453): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 1454): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 1455): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 1460): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 1462): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 1463): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 1464): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 1465): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 1468): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 1471): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 1472): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 1475): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 1476): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 1479): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 1480): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 1481): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 1482): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 1483): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 1488): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 1490): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 1491): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 1492): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 1493): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 1496): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 1499): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 1500): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 1503): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 1504): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 1507): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 1508): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 1509): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 1510): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 1511): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 1516): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 1518): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 1519): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 1520): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 1521): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 1524): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 1527): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 1528): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 1531): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 1532): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 1535): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 1536): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 1537): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 1538): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 1539): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 1544): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 1546): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 1547): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 1548): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 1549): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 1552): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 1555): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 1556): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 1559): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 1560): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 1563): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 1564): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 1565): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 1566): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 1567): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 1572): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 1574): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 1575): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 1576): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 1577): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 1580): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 1583): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 1584): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 1587): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 1588): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 1591): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 1592): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 1593): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 1594): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 1595): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 1600): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 1602): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 1603): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 1604): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 1605): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 1608): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 1611): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 1612): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 1615): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 1616): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 1619): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 1620): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 1621): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 1622): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 1623): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 1628): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 1630): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 1631): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 1632): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 1633): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 1636): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 1639): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 1640): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 1643): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 1644): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 1647): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 1648): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 1649): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 1650): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 1651): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 1656): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 1658): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 1659): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 1660): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 1661): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 1664): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 1667): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 1668): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 1671): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 1672): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 1675): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 1676): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 1677): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 1678): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 1679): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 1684): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 1686): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 1687): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 1688): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 1689): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 1692): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 1695): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 1696): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 1699): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 1700): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 1703): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 1704): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 1705): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 1706): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 1707): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 1712): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 1714): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 1715): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 1716): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 1717): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 1720): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 1723): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 1724): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 1727): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 1728): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 1731): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 1732): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 1733): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 1734): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 1735): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 1740): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 1742): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 1743): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 1744): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 1745): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 1748): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 1751): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 1752): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 1755): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 1756): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 1759): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 1760): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 1761): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 1762): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 1763): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 1768): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 1770): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 1771): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 1772): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 1773): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 1776): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 1779): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 1780): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 1783): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 1784): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 1787): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 1788): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 1789): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 1790): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 1791): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 1796): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 1798): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 1799): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 1800): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 1801): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 1804): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 1807): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 1808): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 1811): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 1812): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 1815): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 1816): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 1817): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 1818): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 1819): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 1824): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 1826): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 1827): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 1828): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 1829): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 1832): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 1835): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 1836): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 1839): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 1840): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 1843): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 1844): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 1845): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 1846): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 1847): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 1852): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 1854): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 1855): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 1856): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 1857): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 1860): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 1863): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 1864): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 1867): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 1868): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 1871): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 1872): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 1873): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 1874): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 1875): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 1880): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 1882): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 1883): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 1884): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 1885): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 1888): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 1891): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 1892): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 1895): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 1896): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 1899): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 1900): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 1901): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 1902): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 1903): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 1908): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 1910): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 1911): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 1912): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 1913): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 1916): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 1919): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 1920): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 1923): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 1924): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 1927): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 1928): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 1929): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 1930): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 1931): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 1936): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 1938): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 1939): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 1940): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 1941): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 1944): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 1947): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 1948): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 1951): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 1952): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 1955): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 1956): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 1957): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 1958): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 1959): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 1964): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 1966): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 1967): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 1968): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 1969): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 1972): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 1975): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 1976): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 1979): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 1980): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 1983): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 1984): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 1985): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 1986): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 1987): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 1992): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 1994): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 1995): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 1996): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 1997): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 2000): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 2003): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 2004): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 2007): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 2008): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 2011): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 2012): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 2013): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 2014): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 2015): OnDesktop Mouse5 :PrevWorkspace
+Keys: Invalid key/modifier on line 2020): OnTitlebar Mouse1 :MacroCmd {Focus} {Raise} {ActivateTab}
+Keys: Invalid key/modifier on line 2022): OnTitlebar Move1 :StartMoving
+Keys: Invalid key/modifier on line 2023): OnLeftGrip Move1 :StartResizing bottomleft
+Keys: Invalid key/modifier on line 2024): OnRightGrip Move1 :StartResizing bottomright
+Keys: Invalid key/modifier on line 2025): OnWindowBorder Move1 :StartMoving
+Keys: Invalid key/modifier on line 2028): OnTitlebar Mouse2 :StartTabbing
+Keys: Invalid key/modifier on line 2031): OnTitlebar Double Mouse1 :Shade
+Keys: Invalid key/modifier on line 2032): OnTitlebar Mouse3 :WindowMenu
+Keys: Invalid key/modifier on line 2035): OnWindow Mod1 Mouse1 :MacroCmd {Raise} {Focus} {StartMoving}
+Keys: Invalid key/modifier on line 2036): OnWindow Mod1 Mouse3 :MacroCmd {Raise} {Focus} {StartResizing BottomRight}
+Keys: Invalid key/modifier on line 2039): OnDesktop Mouse1 :HideMenus
+Keys: Invalid key/modifier on line 2040): OnDesktop Mouse2 :WorkspaceMenu
+Keys: Invalid key/modifier on line 2041): OnDesktop Mouse3 :RootMenu
+Keys: Invalid key/modifier on line 2042): OnDesktop Mouse4 :NextWorkspace
+Keys: Invalid key/modifier on line 2043): OnDesktop Mouse5 :PrevWorkspace
+Failed to read: session.screen0.opaqueMove
+Setting default value
+Failed to read: session.screen0.maxIgnoreIncrement
+Setting default value
+Failed to read: session.screen0.maxDisableMove
+Setting default value
+Failed to read: session.screen0.maxDisableResize
+Setting default value
+Failed to read: session.screen0.workspacewarping
+Setting default value
+Failed to read: session.screen0.showwindowposition
+Setting default value
+Failed to read: session.screen0.autoRaise
+Setting default value
+Failed to read: session.screen0.clickRaises
+Setting default value
+Failed to read: session.screen0.defaultDeco
+Setting default value
+Failed to read: session.screen0.tab.placement
+Setting default value
+Failed to read: session.screen0.windowMenu
+Setting default value
+Failed to read: session.screen0.noFocusWhileTypingDelay
+Setting default value
+Failed to read: session.screen0.edgeSnapThreshold
+Setting default value
+Failed to read: session.screen0.window.focus.alpha
+Setting default value
+Failed to read: session.screen0.window.unfocus.alpha
+Setting default value
+Failed to read: session.screen0.menu.alpha
+Setting default value
+Failed to read: session.screen0.menuDelay
+Setting default value
+Failed to read: session.screen0.tab.width
+Setting default value
+Failed to read: session.screen0.tooltipDelay
+Setting default value
+Failed to read: session.screen0.allowRemoteActions
+Setting default value
+Failed to read: session.screen0.clientMenu.usePixmap
+Setting default value
+Failed to read: session.screen0.tabs.maxOver
+Setting default value
+Failed to read: session.screen0.tabs.intitlebar
+Setting default value
+Failed to read: session.screen0.tabFocusModel
+Setting default value
+Failed to read: session.screen0.focusNewWindows
+Setting default value
+Failed to read: session.screen0.focusSameHead
+Setting default value
+Failed to read: session.screen0.rowPlacementDirection
+Setting default value
+Failed to read: session.screen0.colPlacementDirection
+Setting default value
+Failed to read: session.screen0.windowPlacement
+Setting default value
+Failed to read: session.ignoreBorder
+Setting default value
+Failed to read: session.forcePseudoTransparency
+Setting default value
+Failed to read: session.colorsPerChannel
+Setting default value
+Failed to read: session.doubleClickInterval
+Setting default value
+Failed to read: session.tabPadding
+Setting default value
+Failed to read: session.styleOverlay
+Setting default value
+Failed to read: session.menuFile
+Setting default value
+Failed to read: session.slitlistFile
+Setting default value
+Failed to read: session.appsFile
+Setting default value
+Failed to read: session.tabsAttachArea
+Setting default value
+Failed to read: session.menuSearch
+Setting default value
